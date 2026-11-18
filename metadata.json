@@ -1,0 +1,6 @@
+{
+  "name": "CampusPulse BI — ERP Student Management",
+  "description": "Integrated ERP Student Management System and Power BI Analytics Suite with interactive cross-filtering, DAX measures, star-schema data model, and live fee/academic operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
